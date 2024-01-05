@@ -1,0 +1,50 @@
+.About-parent{
+    background-color: gray;
+    height: 100vh;
+
+}
+.About-image{
+    position: absolute;
+    top: 30%;
+    left: 10%;
+    height: 300px;
+    width: 400px;
+    border-radius: 20px;
+}
+.About-page{
+    position: absolute;
+    top: 20%;
+    left:50%;
+    font-size: 4rem;
+}
+.About-para{
+    height: 200px;
+    width: 600px;
+    background-color: white;
+    position: absolute;
+    left: 50%;
+    top: 45%;
+    border-radius: 10px;
+}
+.About-para1{
+    margin-left: 10px;
+}
+@media screen and (max-width: 600px) {
+.About-page{
+    position: absolute;
+    top: 80%;
+    left: 30%;
+    font-size: 3rem;
+}
+.About-para{
+    top: 100%;
+    left: 10%;
+    width: 400px;
+    height: 270px;
+}
+.About-parent{
+    height: 150vh;
+}
+
+
+}

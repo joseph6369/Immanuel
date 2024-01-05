@@ -1,0 +1,42 @@
+.Explore-image{
+    height: 200px;
+    width: 300px;
+    border-radius: 10px;
+    
+    
+}
+.Explore-parent{
+    background-color: whitesmoke;
+}
+.Explore-child{
+    display: inline-block;
+    flex-wrap: wrap;
+    margin-top: 90px;
+    margin-left: 30px;
+    width: 300px;
+    height: 360px;
+    background-color: white;
+    border-radius: 20px;
+}
+.Explore-location{
+    height: 20px;
+    width: 20px;
+    padding-top: 5px;
+}
+.Explore-place{
+    font-weight: bold;
+}
+.Explore-para{
+    font-weight: bold;
+    padding-left: 20px;
+
+}
+b{
+    color: orange;
+    padding-left: 5px;
+}
+.Explore-btn{
+    float: right;
+    margin-right: 20px;
+    margin-top: -30px;
+}

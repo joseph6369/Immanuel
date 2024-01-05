@@ -1,0 +1,48 @@
+.NewDelhi-parent{
+    position: absolute;
+    top: 20%;
+    left: 15%;
+    
+}
+.NewDelhi-image{
+    height: 400px;
+    width: 500px;
+    border-radius: 3px;
+}
+.newdelhi-child{
+    position: absolute;
+    top: 3%;
+    left: 120%;
+    
+    
+}
+input{
+    width: 220%;
+}
+.newdelhi-para{
+    font-weight: bold;
+}
+.newdelhi-para1{
+    font-weight: bold;
+}
+.NewDelhi-btn{
+    margin-left: 15%;
+    width: 300%;
+}
+.newdelhi-text{
+    width: 80%;
+    border-radius: 10px;
+    border: 1px solid black;
+}
+.newdelhi-child2{
+    height: 200px;
+    width: 500px;
+    background-color: gray;
+    border-radius: 10px;
+    overflow-y: scroll;
+}
+li{
+    list-style-type: none;
+    font-weight: bold;
+    font-size: 1rem;
+}

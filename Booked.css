@@ -1,0 +1,18 @@
+.Booked-parent{
+    position: absolute;
+    top: 30%;
+    left: 40%;
+}
+.Booked-image{
+    height: 30px;
+    width: 30px;
+    margin-left: 20%;
+}
+.Booked-para{
+    font-weight: bold;
+    font-size: 1.5rem;
+}
+.Booked-wish{
+    font-weight: bold;
+    font-size: 2rem;
+}

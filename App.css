@@ -1,0 +1,83 @@
+.App-link{
+  text-decoration: none;
+  font-size: 1.5rem;
+  font-weight: bold;
+  padding-left: 7%;
+  color: black;
+
+}
+nav{
+  background-color: white;
+  position: absolute;
+  top: 2%;
+  width: 70%;
+  text-align: center;
+  border-radius: 20px;
+  padding: 5px;
+  
+
+}
+.icon-app{
+  height: 20px;
+  width: 20px;
+}
+.icon-app{
+  position: absolute;
+  top: 30%;
+  left: 24%;
+}
+.icon-app1{
+  height: 20px;
+  width: 20px;
+}
+.icon-app1{
+  position: absolute;
+  top: 30%;
+  left: 38%;
+}
+.icon-app2{
+  height: 20px;
+  width: 20px;
+}
+.icon-app2{
+  position: absolute;
+  top: 30%;
+  left: 54%;
+}
+.icon-app3{
+  height: 20px;
+  width: 20px;
+}
+.icon-app3{
+  position: absolute;
+  top: 30%;
+  left: 68%;
+}
+
+.icon-app4{
+  height: 20px;
+  width: 20px;
+  display: none;
+}
+.icon-app4{
+  position: absolute;
+  top: 30%;
+  left: 80%;
+}
+@media screen and (max-width: 600px) {
+  .icon-app4{
+    display: block;
+    margin-left: 25px;
+  }
+  .icon-app,.icon-app1,.icon-app2,.icon-app3{
+    display: none;
+  }
+  .App-link{
+    display: none;
+  }
+ nav{
+  padding: 20px;
+  width: 50%;
+  margin-left: 16%;
+ }
+}
